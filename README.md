@@ -1,3 +1,9 @@
+# Branch "imi" - iMi Ausgangspunkt für EE 1.13
+
+* Basis: Alpha branch von Upstream 
+* Composer hinzugefügt (preview-composer)
+* Generell preview gemergt
+
 # Deutsches Sprachpaket für Magento (CE)
 Dieses Sprachpaket wird von Rico Neitzel und Daniel Sasse verwaltet.
 
